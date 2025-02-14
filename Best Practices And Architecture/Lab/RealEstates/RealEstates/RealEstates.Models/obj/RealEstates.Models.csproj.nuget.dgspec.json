@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lenovo\\Desktop\\SoftUni\\Entity Framework Core\\BestPracticesAndArchitectureLab\\RealEstates\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\Desktop\\SoftUni\\Entity Framework Core\\BestPracticesAndArchitectureLab\\RealEstates\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\SoftUni\\Entity Framework Core\\BestPracticesAndArchitectureLab\\RealEstates\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj",
+        "projectName": "RealEstates.Models",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\SoftUni\\Entity Framework Core\\BestPracticesAndArchitectureLab\\RealEstates\\RealEstates\\RealEstates.Models\\RealEstates.Models.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\SoftUni\\Entity Framework Core\\BestPracticesAndArchitectureLab\\RealEstates\\RealEstates\\RealEstates.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
